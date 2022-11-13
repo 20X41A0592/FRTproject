@@ -18,7 +18,7 @@ This is a web based application developed for healthcare.
 - Interactive and responsive UI.
 - Included healthbot which makes website userfriendly.
 - Has collection of many web pages including Home, About Us, Gallery, healthbot, Dropdown, contact us and all the required informtion.
-- Users are able to know about their health conditions through this website.
+- Users are able to know about their health condition through this website.
 - Included blogs and galleries to make users understand more about activities. 
 - Included all the information about doctors to maintain trust.
 
