@@ -6,7 +6,7 @@ This is a web based application developed for healthcare.
 
 
 **Project Link** - https://calm-wave-0b173c200.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://youtu.be/SrnN7slBI1k 
 
 ## Azure technologies used 
 
